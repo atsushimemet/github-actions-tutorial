@@ -6,7 +6,7 @@ def hello():
 
 
 def print_out_syspath():
-    print(sys.path )
+    print(sys.path)
 
 
 if __name__ == "__main__":
